@@ -16,11 +16,12 @@ Here are some ideas to get you started:
 -->
 <div align="center" width="50">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Hello Coders" width="70%"/> <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="60%"/><br> 
+<p><strong>🧠3rd year Data Science student and a Machine Learning Enthusiast
+<br>In The search of Happy Meal.
+
+<img src="https://github.com/zerouchi/zerouchi/blob/main/images/output-onlinegiftools.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="60%"/><br> 
   
-<p><strong>3rd year BCA student. During day, Assisting
-<br>my father at his shop & Coder at night.
+
 <br><br> Vibing to : 🎧  </strong></p>
 
 [![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/31oexxh2bmz37takpmh7ir2bykwu) <br>
@@ -101,5 +102,7 @@ class About extends Me {
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif?raw=true" href="https://github.com/SP-XD" width="75%"/><br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=true"  width="40%"/>
+
+<img src="https://github.com/zerouchi/zerouchi/blob/main/images/ai.gif?raw=true" href="https://github.com/sp-xd" alt="Hello Coders" width="100%"/> <br>
 
 </div>
