@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <div align="center" width="50">
 
-<p><strong>🧠3rd year Data Science student and a Machine Learning Enthusiast
+<p><strong>Data scientist at a leading venture builder Blenheim chalcot
 <br>In The search of Happy Meal.
 
 <img src="https://github.com/zerouchi/zerouchi/blob/main/images/output-onlinegiftools.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="60%"/><br> 
